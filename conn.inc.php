@@ -1,10 +1,10 @@
 <?php
 
 //Váriaveis da conexão
-    $servername = '';
-    $username = '';
-    $password = '';
-    $dbname = '';
+    $servername = 'multiplicnet.com.br';
+    $username = 'devpesquisa';
+    $password = '@res4!*';
+    $dbname = 'sql10357487';
 
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
